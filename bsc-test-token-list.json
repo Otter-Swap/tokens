@@ -1,0 +1,42 @@
+{
+  "name": "Binance Smart Chain Testnet",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "Swap",
+    "Binance",
+    "tokens",
+    "trusted"
+  ],
+  "logoURI": "https://gnosis.mypinata.cloud/ipfs/Qme9B6jRpGtZsRFcPjHvA5T4ugFuL4c3SzWfxyMPa59AMo",
+  "timestamp": "2022-05-26T10:45:01.151Z",
+  "tokens": [
+    {
+      "name": "USDT",
+      "chainId": 97,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0x6726521A1d303c5776c9C4cCFE7d7Ca6F0832214",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "DAI",
+      "chainId": 97,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0x1d51c23dCB3970011BDB1Ab445d16406151a7942",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 97,
+      "symbol": "WBNB",
+      "decimals": 18,
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
